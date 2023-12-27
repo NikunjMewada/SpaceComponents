@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3AF3FC08-CB22-42BE-9B57-5E8321DAA8A8"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3F9698CC-7D31-4A99-978E-18B661B5C469"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpaceComponents/Texts/SpaceTextView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "rotateColors()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3F9698CC-7D31-4A99-978E-18B661B5C469 - b01cd7874fb6afdc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (__C.NSTimer) -&gt; () in SpaceComponents.SpaceTextView.rotateColors() -&gt; ()"
+                  moduleName = "SpaceComponents"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikunjmewada/Desktop/For%20Git/SpaceComponents/SpaceComponents/Texts/SpaceTextView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "216">
+               </Location>
+               <Location
+                  uuid = "3F9698CC-7D31-4A99-978E-18B661B5C469 - b01cd7874fb6af33"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (__C.NSTimer) -&gt; () in SpaceComponents.SpaceTextView.rotateColors() -&gt; ()"
+                  moduleName = "SpaceComponents"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikunjmewada/Desktop/For%20Git/SpaceComponents/SpaceComponents/Texts/SpaceTextView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "216">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CDE7D934-59A0-45BA-A730-00BE1308C179"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpaceComponents/Texts/SpaceTextView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
