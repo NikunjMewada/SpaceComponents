@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ButtonBorderView: View{
+struct ButtonBorderView: View {
     let animationTime: TimeInterval
     private let lineWidth = 3.0
     @State private var offSet = CGPoint(x: 0, y: 0)
@@ -69,7 +69,6 @@ struct ButtonBorderView: View{
     private func makeOuterRectPoints(rectangleWidth: CGFloat, rectangleHeight: CGFloat) -> some View {
         ZStack {
             ButtonCorners().offset(x: rectangleWidth / 2 + 20, y: rectangleHeight / 2 + 15).opacity(isAnimating ? 0.3 : 1) // Bottom Right Outside
-//            ButtonCorners().offset(x: (-rectangleWidth / 2) + 20, y: rectangleHeight - 15).opacity(isAnimating ? 0.3 : 1) // Bottom Left Outside
             ButtonCorners().offset(x: (-rectangleWidth / 2) + 20, y: (rectangleHeight / 2) + 15).opacity(isAnimating ? 0.3 : 1) // Bottom Left Outside
             ButtonCorners().offset(x: rectangleWidth / 2 + 20, y: (-rectangleHeight / 2) + 15).opacity(isAnimating ? 0.3 : 1) // Top Right Outside
         }
