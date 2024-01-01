@@ -25,17 +25,18 @@ There are two types of Textfields to be seen, for both Font and Foreground color
 
    You can also set animation for border in this View. You can rotate border giving a blink effect. Animation can be configurable either forward or backward.
    
-    <img width="276" alt="typo" src="https://github.com/NikunjMewada/SpaceComponents/assets/41508314/3b954ded-e911-4105-97eb-a7827f24a95c">
+    <img width="276" alt="typo" src="https://github.com/NikunjMewada/SpaceComponents/assets/41508314/f2e32e20-1d9a-4a86-aa1e-4478d4516deb">
 
 ### Button
 `SpaceButtonView` is a simple cube like animating button. It will show text and border with corners and a cube like layout. 
 On Click of this button, there will be a simple clicking animation and a haptic feedback.
 
-<img width="276" alt="typo" src="https://github.com/NikunjMewada/SpaceComponents/assets/41508314/cfcb6c9d-8a0a-416b-ae5d-600c975f0419">
+<img width="276" alt="typo" src="https://github.com/NikunjMewada/SpaceComponents/assets/41508314/3f4f19be-f987-49ee-83f6-088db64a572d">
 
 Same as `SpaceTextView`, `SpaceButtonView` is also configurable in same expects: text, border color, border type and animation stats.
 
-<img width="276" alt="typo" src="https://github.com/NikunjMewada/SpaceComponents/assets/41508314/9c91a893-d0d5-4d7d-8765-22e54d491253">
+<img width="276" alt="typo" src="https://github.com/NikunjMewada/SpaceComponents/assets/41508314/24721179-fb75-4e07-81e7-6742a1ecb4b1">
+
 
 ------------------
 
